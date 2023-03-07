@@ -333,10 +333,9 @@
     
     
     .job-info {
-        flex: 2 70%;
         display: flex;
-        flex-wrap: wrap;
         align-items: center;
+        flex-direction: column;
     }
     
     .job-img {
@@ -364,13 +363,12 @@
     
     .job-img:hover {
         opacity: 1.0;
-        /*    transition: .5s ease;*/
         filter: alpha(opacity=100);
         transform: scale(1.01);
     }
     
     .job-img img:hover {
-        /*    transition: .5s ease-in-out;*/
+        
         border: 5px solid #ACF2E5;
         transform: scale(1.1);
     }
@@ -441,18 +439,12 @@
         background-color: #B4D9CB;
     }
     
-    
-    
-    
-    
     .download-info {
         flex: 3 70%;
         display: flex;
         flex-wrap: wrap;
         align-items: center;
-    
     }
-    
     
     .column-title {
         color: #285950;
@@ -513,7 +505,6 @@
     footer div {
     
         line-height: 1.5;
-        /* text-align: right; */
     }
     
     footer a {
