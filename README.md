@@ -35,6 +35,6 @@ This project is license under MIT ![Github licence](http://img.shields.io/badge/
 
 
 ## Link 
-<a href="https://github.com/ch4r1i3/React_Portfolio.git">Click Here</a>
+<a href="https://ch4r1i3.github.io/React_Portfolio/">Link to Deployed Page</a>
 
 
