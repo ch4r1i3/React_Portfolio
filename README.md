@@ -28,14 +28,13 @@ This project is license under MIT ![Github licence](http://img.shields.io/badge/
 
 ## Screenshots 
 
-
-
+<img width="1440" alt="Screenshot 2023-03-06 at 9 24 47 PM" src="https://user-images.githubusercontent.com/111701536/223306408-e61e1e20-2ea1-4c6d-b0ab-c69ac7a28dd9.png">
+<img width="1440" alt="Screenshot 2023-03-06 at 9 25 21 PM" src="https://user-images.githubusercontent.com/111701536/223306443-494f9b80-63da-4dc8-b5e0-b9ab98d0c9dc.png">
+<img width="1440" alt="Screenshot 2023-03-06 at 9 25 48 PM" src="https://user-images.githubusercontent.com/111701536/223306451-f33c55c3-796a-4bee-9228-2c0dacf02ecb.png">
 
 
 
 ## Link 
 <a href="https://github.com/ch4r1i3/React_Portfolio.git">Click Here</a>
 
-## Usage 
 
-To create a portfolio, using React. The user can review and About Me section, a sample Portfolio, a contact form, and be able to download the Resume.
