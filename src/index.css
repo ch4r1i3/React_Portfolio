@@ -16,7 +16,8 @@
     #root {
         min-height: 100vh;
         display: flex;
-        background-image: url("./img/cover.jpg");
+        background: #f1f7f6;
+        
         flex-direction: column;
         justify-content: space-between;
     
@@ -180,8 +181,8 @@
     
     /* REACH OUT STYLES START */
     #reach-out {
-        /* margin-top: 5px; */
-        /* background: #75BFB2; */
+        margin-top: 5px;
+        background: #75BFB2;
     }
     
     #reach-out h2 {
@@ -300,8 +301,7 @@
     /*Start Jobs section*/
     
     .jobs {
-        min-height: 150vh;
-    
+        background: #f1f7f6;
     }
     
     
